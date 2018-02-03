@@ -20,5 +20,4 @@ function validCandidate(bytes32 candidate) view public returns (bool) {
 		}
 	}
 	return false;
-}
- 
+} 
